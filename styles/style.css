@@ -1,0 +1,169 @@
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  overflow: auto;
+  height: 50px;
+  background-color: #118BC0;
+}
+
+.logo {
+  height: 34px;
+  width: 34px;
+  background: #fff;
+  float: left;
+  margin: 0 15px 0 0;
+}
+
+.wordpressUrl {
+  height: 34px;
+  width: 118px;
+  background: #fff;
+  float:left;
+}
+
+.logIn {
+  float: right;
+}
+
+.container1 {
+  margin-top: 0;
+  height: 1120px;
+  background-color: #344051;
+}
+
+.headline  {
+  width: 360px;
+  margin: 0;
+  text-align: center;
+  padding-top: 165px;
+  margin: 0 auto;
+  font-size: 28px;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'Helvetica', sans-serif;
+  color: #fff
+}
+
+.headline2 {
+  width: 260px;
+  text-align: center;
+  padding-top: 60px;
+  margin: 0 auto;
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: normal;
+  font-family: 'Helvetica', sans-serif;
+  color: #fff
+}
+
+.button {
+  height:70px;
+  width: 228px;
+  background: #1E8CBE;
+  margin: 30px auto;
+  border: 8px;
+  border-style: solid;
+  border-color: #000000;
+  margin-bottom: 214px;
+}
+
+.button2 {
+  margin: 0 auto;
+  width: 48px;
+  height: 20px;
+  background: #fff;
+  margin-bottom: 130px;
+
+
+}
+
+.button3 {
+  height: 68px;
+  width: 304px;
+  background: #fff;
+  margin: 0 auto;
+  margin-bottom: 32px;
+
+  }
+
+.button4 {
+  height: 68px;
+  width: 304px;
+  background: #fff;
+  margin: 0 auto;
+  margin-bottom: 32px;
+}
+
+.button5 {
+  height: 68px;
+  width: 304px;
+  background: #fff;
+  margin: 0 auto;
+}
+
+.container2 {
+  height: 190px;
+  background-color: #E8F0F5;
+}
+
+.container3 {
+  padding-top: 32px;
+  background: #D1D3D7;
+  padding-bottom: 32px;
+
+}
+  .block:first-of-type {
+    margin-top: 0;
+  }
+    .block {
+      height: 215px;
+      background: #FEFEFE;
+      margin: 32px 10px;
+}
+  .block:last-of-type {
+    margin-bottom: 0;
+  }
+
+  .container4 {
+    height: 168px;
+    background:#E8F0F5;
+    padding-top: 98px;
+
+  }
+    .block2 {
+      width: 208px;
+      height: 52px;
+      padding-left: 126px;
+      padding-right: 126px;
+      background-color: #1E8CBE;
+      margin: 0 auto;
+    }
+
+.footer {
+  height: 132px;
+  background: #000000;
+  padding-top: 25px;
+  text-align: center;
+}
+
+a {
+  padding-top: 60px;
+  margin: 5px;
+  font-size: 12px;
+  text-decoration: none;
+  font-weight: normal;
+  font-family: 'Helvetica', sans-serif;
+  color: #fff
+}
+
+.button6 {
+  height:22px;
+  width: 132px;
+  background: #fff;
+  margin: 24px auto;
+
+
+
+}
